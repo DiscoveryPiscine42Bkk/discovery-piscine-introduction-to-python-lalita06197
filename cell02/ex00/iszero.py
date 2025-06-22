@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 x = int(input("type a number: "))
-y = 0
-if x == y:
+if x == 0:
     print("This number is equal to zero")
-elif x != y:
+else:
     print("This number is different from zero")
