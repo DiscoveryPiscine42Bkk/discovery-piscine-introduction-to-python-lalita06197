@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 x = input("type a number: ")
 y = "0"
 if x == y:
